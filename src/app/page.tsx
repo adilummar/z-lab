@@ -63,7 +63,7 @@ export default function ComingSoonPage() {
           className="absolute inset-0 bg-cover bg-center"
           style={{
             backgroundImage: "url('/bg.jpg')",
-            filter: "blur(18px) saturate(0.85) brightness(0.6)",
+            filter: "blur(1.5px) saturate(0.9) brightness(0.65)",
             transform: "scale(1.06)",
           }}
         />
