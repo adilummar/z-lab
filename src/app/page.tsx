@@ -60,7 +60,7 @@ export default function ComingSoonPage() {
         }}
       >
         <div
-          className="absolute inset-0 bg-cover bg-center"
+          className="absolute inset-0 bg-contain bg-center"
           style={{
             backgroundImage: "url('/bg.jpg')",
             filter: "blur(1.5px) saturate(0.9) brightness(0.65)",
